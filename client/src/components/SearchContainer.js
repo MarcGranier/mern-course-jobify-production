@@ -53,7 +53,6 @@ const SearchContainer = () => {
 						value={localSearch}
 						handleChange={optimizedDebounce}
 					/>
-					/>
 					{/* search by status */}
 					<FormRowSelect
 						labelText='status'
